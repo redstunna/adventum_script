@@ -1,0 +1,244 @@
+# ----------------------------------------
+# 1 Master View
+# Top Conversion Paths
+# 20170207-20170306
+# ----------------------------------------
+
+Source/Medium Path,Conversions,Conversion Value
+(direct) / (none),583,"$111,067.34"
+(direct) / (none) > (direct) / (none),233,"$53,201.13"
+google / organic,161,"$12,168.02"
+mall.googleplex.com / referral,108,"$13,134.03"
+(direct) / (none) > (direct) / (none) > (direct) / (none),85,"$18,672.92"
+mall.googleplex.com / referral > (direct) / (none),69,"$10,624.66"
+mall.googleplex.com / referral > (direct) / (none) > (direct) / (none),50,"$6,504.05"
+(direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none),43,"$12,936.02"
+google / organic > (direct) / (none),42,"$3,255.84"
+sites.google.com / referral,37,"$6,478.45"
+google / organic > (direct) / (none) > (direct) / (none),37,"$4,896.28"
+sites.google.com / referral > mall.googleplex.com / referral,23,"$4,274.00"
+(direct) / (none) > mall.googleplex.com / referral,23,"$3,284.05"
+(direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none),21,"$25,115.53"
+google / cpc,17,"$1,465.77"
+sites.google.com / referral > (direct) / (none),14,"$4,284.00"
+mall.googleplex.com / referral > (direct) / (none) > (direct) / (none) > (direct) / (none),12,"$1,854.20"
+sites.google.com / referral > mall.googleplex.com / referral > sites.google.com / referral,11,"$1,925.19"
+(direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none),11,"$1,976.67"
+l.facebook.com / referral > (direct) / (none),10,"$1,221.57"
+google / organic > (direct) / (none) > (direct) / (none) > (direct) / (none),10,$477.75
+mall.googleplex.com / referral > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none),10,"$1,780.30"
+(direct) / (none) > mall.googleplex.com / referral > (direct) / (none),9,"$1,074.70"
+google / organic > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none),9,$470.62
+(direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none),8,"$1,416.52"
+moma.corp.google.com / referral,8,"$1,519.00"
+dfa / cpm,7,"$1,410.40"
+(direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none),6,$545.95
+(direct) / (none) > mall.googleplex.com / referral > (direct) / (none) > (direct) / (none),6,$764.56
+sites.google.com / referral > (direct) / (none) > (direct) / (none),5,$774.00
+sites.google.com / referral > moma.corp.google.com / referral,5,"$1,190.00"
+(direct) / (none) > google / cpc,5,$443.86
+(direct) / (none) > (direct) / (none) > mall.googleplex.com / referral,5,$853.27
+groups.google.com / referral,5,$385.50
+moma.corp.google.com / referral > sites.google.com / referral > mall.googleplex.com / referral,5,$645.00
+moma.corp.google.com / referral > (direct) / (none),5,"$1,129.06"
+(direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > google / organic > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none),4,$473.85
+(direct) / (none) > google / organic > (direct) / (none),4,$604.15
+google / organic > mall.googleplex.com / referral,4,$305.44
+mall.googleplex.com / referral > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none),4,$408.97
+mail.google.com / referral,3,$85.55
+plus.google.com / referral,3,$134.36
+sites.google.com / referral > (direct) / (none) > (direct) / (none) > (direct) / (none),3,$645.00
+(direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none),3,"$1,275.80"
+google / organic > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none),3,$672.80
+mall.googleplex.com / referral > sites.google.com / referral > mall.googleplex.com / referral,3,$595.00
+mall.googleplex.com / referral > google / organic,3,$355.10
+moma.corp.google.com / referral > sites.google.com / referral,3,$783.00
+moma.corp.google.com / referral > sites.google.com / referral > (direct) / (none) > (direct) / (none),3,$764.00
+moma.corp.google.com / referral > mall.googleplex.com / referral,3,"$1,370.00"
+moma.corp.google.com / referral > (direct) / (none) > (direct) / (none),3,"$1,259.00"
+l.facebook.com / referral > (direct) / (none) > (direct) / (none) > (direct) / (none),2,$287.92
+sites.google.com / referral > mall.googleplex.com / referral > sites.google.com / referral > (direct) / (none),2,$663.00
+sites.google.com / referral > mall.googleplex.com / referral > sites.google.com / referral > mall.googleplex.com / referral > (direct) / (none),2,$685.00
+sites.google.com / referral > mall.googleplex.com / referral > sites.google.com / referral > mall.googleplex.com / referral > moma.corp.google.com / referral > mall.googleplex.com / referral,2,$464.94
+sites.google.com / referral > mall.googleplex.com / referral > moma.corp.google.com / referral,2,$238.00
+sites.google.com / referral > moma.corp.google.com / referral > sites.google.com / referral > moma.corp.google.com / referral,2,$447.00
+(direct) / (none) > sites.google.com / referral > (direct) / (none) > (direct) / (none),2,$357.00
+(direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none),2,$49.57
+(direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none),2,$664.00
+(direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none),2,"$1,042.84"
+(direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none),2,$238.00
+(direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > google / organic,2,$135.95
+(direct) / (none) > (direct) / (none) > (direct) / (none) > google / organic > (direct) / (none) > (direct) / (none) > (direct) / (none),2,$789.15
+(direct) / (none) > (direct) / (none) > (direct) / (none) > mall.googleplex.com / referral,2,$679.30
+(direct) / (none) > (direct) / (none) > google / organic,2,$62.37
+(direct) / (none) > (direct) / (none) > mall.googleplex.com / referral > (direct) / (none),2,$339.99
+(direct) / (none) > (direct) / (none) > mall.googleplex.com / referral > (direct) / (none) > (direct) / (none),2,$286.93
+(direct) / (none) > moma.corp.google.com / referral,2,$357.00
+google / organic > google / cpc,2,$142.85
+google / organic > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none),2,$51.96
+facebook.com / referral,2,$61.93
+mall.googleplex.com / referral > sites.google.com / referral > (direct) / (none),2,$268.00
+mall.googleplex.com / referral > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none),2,$888.68
+mall.googleplex.com / referral > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none),2,$277.88
+mall.googleplex.com / referral > (direct) / (none) > google / organic,2,$325.57
+mall.googleplex.com / referral > moma.corp.google.com / referral,2,$480.78
+moma.corp.google.com / referral > sites.google.com / referral > mall.googleplex.com / referral > sites.google.com / referral,2,$317.00
+moma.corp.google.com / referral > mall.googleplex.com / referral > (direct) / (none),2,$377.00
+dfa / cpm > dfa / cpm,1,$76.77
+dfa / cpm > dfa / cpm > mall.googleplex.com / referral,1,$67.18
+dfa / cpm > (direct) / (none),1,$49.58
+dfa / cpm > (direct) / (none) > (direct) / (none) > google / organic > (direct) / (none),1,$26.97
+dfa / cpm > google / organic,1,$15.19
+dfa / cpm > google / organic > (direct) / (none),1,$35.18
+dfa / cpm > google / organic > (direct) / (none) > sites.google.com / referral,1,$119.00
+m.facebook.com / referral,1,$3.98
+l.facebook.com / referral,1,$18.99
+mail.google.com / referral > (direct) / (none) > mall.googleplex.com / referral,1,$33.59
+mail.google.com / referral > mall.googleplex.com / referral > (direct) / (none) > (direct) / (none),1,$52.07
+sites.google.com / referral > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none),1,$238.00
+sites.google.com / referral > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none),1,$238.00
+sites.google.com / referral > (direct) / (none) > (direct) / (none) > mall.googleplex.com / referral > (direct) / (none) > (direct) / (none),1,$357.00
+sites.google.com / referral > (direct) / (none) > mall.googleplex.com / referral,1,$119.00
+sites.google.com / referral > (direct) / (none) > mall.googleplex.com / referral > (direct) / (none) > (direct) / (none),1,$265.76
+sites.google.com / referral > google / organic,1,$149.00
+sites.google.com / referral > google / organic > (direct) / (none),1,$149.00
+sites.google.com / referral > groups.google.com / referral,1,$387.00
+sites.google.com / referral > mall.googleplex.com / referral > sites.google.com / referral > (direct) / (none) > (direct) / (none),1,$149.00
+sites.google.com / referral > mall.googleplex.com / referral > sites.google.com / referral > (direct) / (none) > mall.googleplex.com / referral > (direct) / (none),1,$298.00
+sites.google.com / referral > mall.googleplex.com / referral > sites.google.com / referral > google / organic,1,$149.00
+sites.google.com / referral > mall.googleplex.com / referral > sites.google.com / referral > groups.google.com / referral,1,$238.00
+sites.google.com / referral > mall.googleplex.com / referral > sites.google.com / referral > mall.googleplex.com / referral,1,$238.00
+sites.google.com / referral > mall.googleplex.com / referral > sites.google.com / referral > mall.googleplex.com / referral > sites.google.com / referral,1,$149.00
+sites.google.com / referral > mall.googleplex.com / referral > sites.google.com / referral > mall.googleplex.com / referral > sites.google.com / referral > (direct) / (none) > (direct) / (none) > mall.googleplex.com / referral,1,$149.00
+sites.google.com / referral > mall.googleplex.com / referral > sites.google.com / referral > moma.corp.google.com / referral,1,$119.00
+sites.google.com / referral > mall.googleplex.com / referral > (direct) / (none),1,$149.00
+sites.google.com / referral > mall.googleplex.com / referral > (direct) / (none) > sites.google.com / referral,1,$238.00
+sites.google.com / referral > mall.googleplex.com / referral > (direct) / (none) > sites.google.com / referral > mall.googleplex.com / referral > sites.google.com / referral > mall.googleplex.com / referral,1,$149.00
+sites.google.com / referral > mall.googleplex.com / referral > (direct) / (none) > (direct) / (none),1,$158.00
+sites.google.com / referral > mall.googleplex.com / referral > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none),1,$149.00
+sites.google.com / referral > mall.googleplex.com / referral > groups.google.com / referral,1,$476.00
+sites.google.com / referral > mall.googleplex.com / referral > groups.google.com / referral > (direct) / (none),1,$149.00
+sites.google.com / referral > mall.googleplex.com / referral > moma.corp.google.com / referral > sites.google.com / referral,1,$238.00
+sites.google.com / referral > mall.googleplex.com / referral > moma.corp.google.com / referral > sites.google.com / referral > mall.googleplex.com / referral > (direct) / (none) > (direct) / (none) > (direct) / (none),1,$228.00
+sites.google.com / referral > moma.corp.google.com / referral > sites.google.com / referral,1,$149.00
+sites.google.com / referral > moma.corp.google.com / referral > sites.google.com / referral > mall.googleplex.com / referral,1,$277.00
+sites.google.com / referral > moma.corp.google.com / referral > mall.googleplex.com / referral > sites.google.com / referral > mall.googleplex.com / referral > sites.google.com / referral > mall.googleplex.com / referral > (direct) / (none),1,$149.00
+sites.google.com / referral > moma.corp.google.com / referral > (direct) / (none),1,$119.00
+sites.google.com / referral > moma.corp.google.com / referral > (direct) / (none) > sites.google.com / referral > (direct) / (none),1,$461.00
+google / cpc > google / cpc,1,$657.86
+google / cpc > (direct) / (none) > google / cpc > google / cpc > google / cpc > google / cpc,1,$32.97
+google / cpc > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none),1,$55.99
+google / cpc > google / organic > google / cpc > google / cpc,1,$39.99
+google / cpc > google / organic > (direct) / (none) > (direct) / (none) > google / cpc > google / organic > (direct) / (none) > (direct) / (none) > (direct) / (none),1,$35.98
+google / cpc > google / organic > (direct) / (none) > (direct) / (none) > (direct) / (none),1,$53.96
+Partners / affiliate,1,$7.97
+Partners / affiliate > (direct) / (none) > (direct) / (none),1,$21.99
+bing / organic,1,$84.96
+google.com / referral > (direct) / (none) > dealspotr.com / referral,1,$87.97
+yahoo / organic > (direct) / (none),1,$70.97
+(direct) / (none) > dfa / cpm > dfa / cpm,1,$85.95
+(direct) / (none) > mail.google.com / referral,1,$33.59
+(direct) / (none) > mail.google.com / referral > mall.googleplex.com / referral,1,$33.59
+(direct) / (none) > sites.google.com / referral,1,$149.00
+(direct) / (none) > sites.google.com / referral > (direct) / (none),1,$228.00
+(direct) / (none) > sites.google.com / referral > mall.googleplex.com / referral,1,$158.00
+(direct) / (none) > sites.google.com / referral > mall.googleplex.com / referral > (direct) / (none),1,$238.00
+(direct) / (none) > sites.google.com / referral > mall.googleplex.com / referral > moma.corp.google.com / referral,1,$277.00
+(direct) / (none) > sites.google.com / referral > moma.corp.google.com / referral > sites.google.com / referral,1,$417.00
+(direct) / (none) > (direct) / (none) > dfa / cpm > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none),1,$23.98
+(direct) / (none) > (direct) / (none) > l.facebook.com / referral,1,$149.00
+(direct) / (none) > (direct) / (none) > sites.google.com / referral,1,$357.00
+(direct) / (none) > (direct) / (none) > sites.google.com / referral > (direct) / (none),1,$119.00
+(direct) / (none) > (direct) / (none) > google / cpc,1,$100.77
+(direct) / (none) > (direct) / (none) > (direct) / (none) > sites.google.com / referral,1,$357.00
+(direct) / (none) > (direct) / (none) > (direct) / (none) > google / cpc > mall.googleplex.com / referral,1,$63.97
+(direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > sites.google.com / referral > mall.googleplex.com / referral,1,$162.88
+(direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > dfa / cpm,1,$86.98
+(direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none),1,$15.19
+(direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none),1,$7.19
+(direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none),1,$19.99
+(direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none),1,$7.19
+(direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none),1,$39.99
+(direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none),1,$19.99
+(direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none),1,$298.00
+(direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none),1,$34.99
+(direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none),1,$149.00
+(direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > mall.googleplex.com / referral,1,$127.13
+(direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > google / organic > (direct) / (none) > (direct) / (none),1,$69.99
+(direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > google / organic > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > mail.google.com / referral,1,$271.84
+(direct) / (none) > (direct) / (none) > (direct) / (none) > google / organic > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none),1,$16.78
+(direct) / (none) > (direct) / (none) > (direct) / (none) > mall.googleplex.com / referral > (direct) / (none),1,$101.54
+(direct) / (none) > (direct) / (none) > (direct) / (none) > mall.googleplex.com / referral > (direct) / (none) > (direct) / (none) > (direct) / (none),1,$298.00
+(direct) / (none) > (direct) / (none) > google / organic > (direct) / (none),1,$119.00
+(direct) / (none) > (direct) / (none) > google / organic > (direct) / (none) > (direct) / (none),1,$20.98
+(direct) / (none) > (direct) / (none) > google / organic > (direct) / (none) > (direct) / (none) > (direct) / (none),1,$149.00
+(direct) / (none) > (direct) / (none) > tpc.googlesyndication.com / referral > (direct) / (none) > (direct) / (none),1,$238.00
+(direct) / (none) > (direct) / (none) > mall.googleplex.com / referral > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none),1,$119.00
+(direct) / (none) > (direct) / (none) > mall.googleplex.com / referral > google / organic,1,$211.15
+(direct) / (none) > (direct) / (none) > mall.googleplex.com / referral > google / organic > mall.googleplex.com / referral,1,$13.59
+(direct) / (none) > google / organic,1,$79.00
+(direct) / (none) > google / organic > google / cpc,1,$79.00
+(direct) / (none) > google / organic > (direct) / (none) > (direct) / (none) > (direct) / (none),1,$416.73
+(direct) / (none) > groups.google.com / referral,1,$10.50
+(direct) / (none) > mall.googleplex.com / referral > (direct) / (none) > sites.google.com / referral > (direct) / (none),1,$417.00
+(direct) / (none) > mall.googleplex.com / referral > (direct) / (none) > google / cpc,1,$17.59
+(direct) / (none) > moma.corp.google.com / referral > mall.googleplex.com / referral,1,$298.00
+google / organic > dealspotr.com / referral,1,$99.99
+google / organic > mall.googleplex.com / referral > (direct) / (none),1,$49.54
+google / organic > mall.googleplex.com / referral > (direct) / (none) > google / organic > mall.googleplex.com / referral > (direct) / (none),1,$30.39
+google / organic > dfa / cpm,1,$210.42
+google / organic > dfa / cpm > google / organic > (direct) / (none),1,$174.60
+google / organic > dfa / cpm > google / organic > (direct) / (none) > (direct) / (none),1,$41.99
+google / organic > google / cpc > google / organic > google / cpc > google / cpc > (direct) / (none),1,$19.99
+google / organic > (direct) / (none) > mall.googleplex.com / referral,1,$299.85
+google / organic > (direct) / (none) > (direct) / (none) > mall.googleplex.com / referral,1,$559.80
+google / organic > (direct) / (none) > (direct) / (none) > mall.googleplex.com / referral > (direct) / (none),1,$357.00
+google / organic > (direct) / (none) > (direct) / (none) > moma.corp.google.com / referral > sites.google.com / referral,1,$119.00
+google / organic > (direct) / (none) > (direct) / (none) > (direct) / (none) > google / cpc,1,$119.00
+google / organic > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > google / cpc > google / organic,1,$18.99
+google / organic > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none),1,$50.96
+google / organic > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none),1,$119.99
+groups.google.com / referral > mall.googleplex.com / referral,1,$19.19
+connect.googleforwork.com / referral > (direct) / (none) > google / organic > (direct) / (none) > (direct) / (none),1,$252.46
+mall.googleplex.com / referral > dfa / cpm > mall.googleplex.com / referral > dfa / cpm,1,$46.37
+mall.googleplex.com / referral > dfa / cpm > mall.googleplex.com / referral > (direct) / (none),1,$119.00
+mall.googleplex.com / referral > mail.google.com / referral > (direct) / (none) > (direct) / (none) > (direct) / (none),1,$12.79
+mall.googleplex.com / referral > sites.google.com / referral > mall.googleplex.com / referral > sites.google.com / referral > (direct) / (none) > moma.corp.google.com / referral > mall.googleplex.com / referral,1,$149.00
+mall.googleplex.com / referral > sites.google.com / referral > mall.googleplex.com / referral > (direct) / (none),1,$35.98
+mall.googleplex.com / referral > sites.google.com / referral > mall.googleplex.com / referral > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > sites.google.com / referral,1,$119.00
+mall.googleplex.com / referral > sites.google.com / referral > mall.googleplex.com / referral > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none),1,$519.00
+mall.googleplex.com / referral > sites.google.com / referral > moma.corp.google.com / referral,1,$149.00
+mall.googleplex.com / referral > google / cpc > (direct) / (none),1,$106.36
+mall.googleplex.com / referral > (direct) / (none) > sites.google.com / referral,1,$238.00
+mall.googleplex.com / referral > (direct) / (none) > sites.google.com / referral > mall.googleplex.com / referral,1,$149.00
+mall.googleplex.com / referral > (direct) / (none) > sites.google.com / referral > mall.googleplex.com / referral > sites.google.com / referral > mall.googleplex.com / referral > (direct) / (none),1,$149.00
+mall.googleplex.com / referral > (direct) / (none) > (direct) / (none) > dfa / cpm > dfa / cpm > (direct) / (none) > dfa / cpm > google / cpc,1,$29.58
+mall.googleplex.com / referral > (direct) / (none) > (direct) / (none) > sites.google.com / referral > mall.googleplex.com / referral > sites.google.com / referral > (direct) / (none),1,$745.00
+mall.googleplex.com / referral > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > mail.google.com / referral > (direct) / (none) > (direct) / (none) > mall.googleplex.com / referral,1,$639.90
+mall.googleplex.com / referral > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none),1,$591.68
+mall.googleplex.com / referral > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none),1,$575.84
+mall.googleplex.com / referral > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none),1,$149.00
+mall.googleplex.com / referral > (direct) / (none) > google / organic > (direct) / (none) > (direct) / (none),1,$387.00
+mall.googleplex.com / referral > (direct) / (none) > groups.google.com / referral,1,$33.59
+mall.googleplex.com / referral > google / organic > (direct) / (none) > (direct) / (none),1,$159.96
+mall.googleplex.com / referral > google / organic > (direct) / (none) > (direct) / (none) > (direct) / (none),1,$104.96
+mall.googleplex.com / referral > google / organic > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none),1,$239.94
+mall.googleplex.com / referral > moma.corp.google.com / referral > mall.googleplex.com / referral,1,$149.00
+moma.corp.google.com / referral > sites.google.com / referral > mall.googleplex.com / referral > sites.google.com / referral > mall.googleplex.com / referral,1,$237.00
+moma.corp.google.com / referral > sites.google.com / referral > mall.googleplex.com / referral > sites.google.com / referral > mall.googleplex.com / referral > (direct) / (none),1,$745.00
+moma.corp.google.com / referral > sites.google.com / referral > mall.googleplex.com / referral > (direct) / (none),1,$114.36
+moma.corp.google.com / referral > sites.google.com / referral > mall.googleplex.com / referral > (direct) / (none) > (direct) / (none),1,$119.00
+moma.corp.google.com / referral > sites.google.com / referral > moma.corp.google.com / referral,1,$119.00
+moma.corp.google.com / referral > sites.google.com / referral > (direct) / (none),1,$812.00
+moma.corp.google.com / referral > sites.google.com / referral > (direct) / (none) > moma.corp.google.com / referral > sites.google.com / referral > mall.googleplex.com / referral > moma.corp.google.com / referral > sites.google.com / referral,1,$149.00
+moma.corp.google.com / referral > sites.google.com / referral > (direct) / (none) > moma.corp.google.com / referral > mall.googleplex.com / referral,1,$158.00
+moma.corp.google.com / referral > mall.googleplex.com / referral > sites.google.com / referral > mall.googleplex.com / referral,1,$505.00
+moma.corp.google.com / referral > mall.googleplex.com / referral > sites.google.com / referral > mall.googleplex.com / referral > (direct) / (none) > sites.google.com / referral > mall.googleplex.com / referral > (direct) / (none),1,$298.00
+moma.corp.google.com / referral > mall.googleplex.com / referral > (direct) / (none) > (direct) / (none) > sites.google.com / referral,1,$149.00
+moma.corp.google.com / referral > mall.googleplex.com / referral > (direct) / (none) > (direct) / (none) > sites.google.com / referral > mall.googleplex.com / referral,1,$68.77
+moma.corp.google.com / referral > mall.googleplex.com / referral > (direct) / (none) > (direct) / (none) > (direct) / (none),1,$238.00
+moma.corp.google.com / referral > (direct) / (none) > sites.google.com / referral,1,$268.00
+moma.corp.google.com / referral > (direct) / (none) > mall.googleplex.com / referral > sites.google.com / referral,1,$119.00
+moma.corp.google.com / referral > (direct) / (none) > (direct) / (none) > (direct) / (none) > (direct) / (none),1,$465.00
+moma.corp.google.com / referral > google / organic,1,$149.00
+siliconvalley.about.com / referral,1,$43.96
